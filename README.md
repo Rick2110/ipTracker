@@ -21,4 +21,5 @@ Siga estas etapas para configurar o projeto em sua máquina local:
    git clone https://github.com/usuario/nome-do-repositorio.git
   
 2. **Instalar os Utilitarios:**
+   ```bash
   pip install -r requirements.txt  
