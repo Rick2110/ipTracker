@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import sys
-import requests
 
 ip = sys.argv[1]
 url = (f"https://www.shodan.io/search?query={sys.argv[1]}")
